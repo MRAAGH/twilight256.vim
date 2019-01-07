@@ -296,7 +296,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     delf <SID>grey_number
     " }}}
     
-    hi CursorLine cterm=NONE ctermbg=233 ctermfg=NONE                                                                                                                             
+    hi CursorLine cterm=NONE ctermbg=233 ctermfg=NONE
     hi CursorColumn cterm=NONE ctermbg=233 ctermfg=NONE
 
 endif
